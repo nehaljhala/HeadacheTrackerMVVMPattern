@@ -1,4 +1,4 @@
-#HeadacheTracker application in MVVM pattern.
+# HeadacheTracker application in MVVM pattern.
 
 The user can use this app to record the start time and total duration his/her headache lasted. This can be useful data while consulting a doctor. 
 The app will fetch the weather data of the current location of the user and provide with detail. 
